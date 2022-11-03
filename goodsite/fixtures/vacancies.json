@@ -1,0 +1,22 @@
+[
+  {
+    "model": "vacancies.vacancy",
+    "pk": 1,
+    "fields": {
+      "slug": "New vacancy",
+      "text": "Pay comp",
+      "status": "Activ",
+      "created": "HJK"
+    }
+  },
+  {
+    "model": "vacancies.vacancy",
+    "pk": 2,
+    "fields": {
+      "slug": "New",
+      "text": "Pay",
+      "status": "Activ",
+      "created": "kllknmlkmmkl;"
+    }
+  }
+]

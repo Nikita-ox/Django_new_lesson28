@@ -1,0 +1,9 @@
+[
+  {
+    "model": "vacancies.skill",
+    "pk": 1,
+    "fields": {
+      "name": "Nikita",
+      "is_active": 3.5
+    }}
+]

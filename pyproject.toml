@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "djpython"
+version = "0.1.0"
+description = ""
+authors = ["NIK <nikita1z@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+Django = "^4.1.1"
+psycopg2 = "^2.9.3"
+Pillow = "^9.2.0"
+djangorestframework = "^3.14.0"
+djangorestframework-simplejwt = "^5.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
